@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1735831985.29749 "/Users/xinxin/CSC165/csc165_preclass_w1.tex" "csc165_preclass_w1.pdf" "csc165_preclass_w1" 1735831985.82074 0
-  "/Users/xinxin/CSC165/csc165_preclass_w1.tex" 1735831402.87224 24223 109118a285d2ba07d1550bb290398522 ""
+["pdflatex"] 1735833242.90867 "/Users/xinxin/CSC165/preclass/csc165_preclass_w1.tex" "csc165_preclass_w1.pdf" "csc165_preclass_w1" 1735833243.50554 0
+  "/Users/xinxin/CSC165/preclass/csc165_preclass_w1.tex" 1735833242.76391 24232 2fec588185ff22956f98fc3392b82946 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -101,8 +101,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734949969.47846 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734949879 8221436 a1df32b3b9eee96f398af0071afb8c78 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "csc165_preclass_w1.aux" 1735831985.74834 1569 211f27175b2de712e97d677738290593 "pdflatex"
-  "csc165_preclass_w1.tex" 1735831402.87224 24223 109118a285d2ba07d1550bb290398522 ""
+  "csc165_preclass_w1.aux" 1735833243.42412 1569 211f27175b2de712e97d677738290593 "pdflatex"
+  "csc165_preclass_w1.tex" 1735833242.76391 24232 2fec588185ff22956f98fc3392b82946 ""
   (generated)
   "csc165_preclass_w1.aux"
   "csc165_preclass_w1.log"
